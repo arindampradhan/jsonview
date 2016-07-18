@@ -10,5 +10,5 @@ Created this as it helps create beautiful restful services.
 
 **NOTE:** Attach this to your html file along with jquery. :)
 
-* (jquery.jsonview.css)[https://github.com/arindampradhan/jsonview/blob/master/jquery.jsonview.css]
-* (jquery.jsonview.js)[https://github.com/arindampradhan/jsonview/blob/master/jquery.jsonview.js]
+* [jquery.jsonview.css](https://github.com/arindampradhan/jsonview/blob/master/jquery.jsonview.css)
+* [jquery.jsonview.js](https://github.com/arindampradhan/jsonview/blob/master/jquery.jsonview.js)
